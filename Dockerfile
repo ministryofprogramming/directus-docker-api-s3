@@ -1,4 +1,4 @@
-FROM ministryofprogramming/directus-api:latest
+FROM ministryofprogramming/directus-api:2.4.0
 #https://github.com/directus/api/issues/718#issuecomment-457371997
 
 RUN apk add --no-cache \
